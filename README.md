@@ -12,7 +12,7 @@ This repository contains projects demonstrating various data analysis and machin
 
 ## Projects
 
-1. **Causal Inference**: Analysis and methods to determine causality in a real-world dataset leveraging machine learning algoritms.
+1. **Causal Inference**: Analysis and methods to determine causality in a real-world dataset leveraging machine learning algorithms.
 2. **Data Visualization**: Techniques and examples for visualizing data effectively utlizing.
 3. **Imbalanced Classification**: Approaches to handle and classify imbalanced data using machine learning algorithms.
 4. **Multinomial Regression**: Implementation of multinomial logistic regression models.
